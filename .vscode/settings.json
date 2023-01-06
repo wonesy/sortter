@@ -1,0 +1,8 @@
+{
+    "workbench.colorCustomizations": {
+        "activityBar.background": "#3A292C",
+        "titleBar.activeBackground": "#51393D",
+        "titleBar.activeForeground": "#FBFAFA"
+    },
+    "python.defaultInterpreterPath": "/home/cameron/.cache/pypoetry/virtualenvs/sortter-LbChuZ4_-py3.10"
+}
